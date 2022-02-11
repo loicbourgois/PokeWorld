@@ -1,0 +1,3 @@
+[submodule "pokemon_en_fr"]
+	path = pokemon_en_fr
+	url = git@github.com:shalien/pokemon_en_fr.git
